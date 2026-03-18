@@ -1,0 +1,17 @@
+# Process Hacker 2 Extended - Git Exclusions
+*.exe
+*.dll
+*.sys
+*.pdb
+.vs/
+x64/
+Debug/
+Release/
+*.obj
+*.log
+*.tlog
+
+# Plugin & Config Data
+/Plugins/*.dll
+settings.xml
+*.tmp
